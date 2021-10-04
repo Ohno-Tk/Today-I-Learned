@@ -1,2 +1,2 @@
-# Study_Book
-本読んだやつのまとめ
+# Today-I-Learned
+今日知ったこと
